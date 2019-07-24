@@ -14,12 +14,12 @@ let basshunterDota = new Audio();
 let theMoon = new Audio();
 
 var sound;
-hit.src = "sounds/hit.mp3";
-wall.src = "sounds/wall.mp3";
-comScore.src = "sounds/comScore.mp3";
-userScore.src = "sounds/userScore.mp3";
-basshunterDota.src = "sounds/basshunterDota.mp3";
-theMoon.src = "sounds/theMoon.mp3";
+hit.src = "static/sounds/hit.mp3";
+wall.src = "static/sounds/wall.mp3";
+comScore.src = "static/sounds/comScore.mp3";
+userScore.src = "static/sounds/userScore.mp3";
+basshunterDota.src = "static/sounds/basshunterDota.mp3";
+theMoon.src = "static/sounds/theMoon.mp3";
  
 
 
